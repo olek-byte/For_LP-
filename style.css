@@ -1335,7 +1335,7 @@ h4 {
     }
 
     .modal {
-        height: auto;
+        /* height: auto; */
     }
 
     .video__block {
