@@ -299,7 +299,7 @@ h4 {
 
 .modal-body {
     padding: 20px;
-    /* height: 100%; */
+    min-height: 93%;
     overflow-y: auto;
 }
 
