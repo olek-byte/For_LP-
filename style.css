@@ -277,9 +277,9 @@ h4 {
     color: var(--title-dark);
 }
 
-.library__iframe {
+/* .library__iframe {
     height: 100%;
-}
+} */
 
 .modal-subtitle {
     margin-bottom: 10px;
