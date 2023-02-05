@@ -291,18 +291,19 @@ h4 {
 }
 
 
+.modal-content {
+    height: 100%;
+    overflow-y: hidden;
+}
 
 
 .modal-body {
     padding: 20px;
     /* height: 100%; */
-    overflow-y: hidden;
-}
-
-.modal-content {
-    height: 100%;
     overflow-y: auto;
 }
+
+
 
 .modal__box-scroll {
     /* height: 100%; */
