@@ -306,15 +306,9 @@ h4 {
 
 
 
-/* .modal__box-scroll { */
-/* height: 100%; */
-/* overflow-y: hidden; */
-/* } */
-
-.library__iframe {
+/* .library__iframe {
     height: 100%;
-    overflow-y: hidden;
-}
+} */
 
 .modal__span {
     margin-left: 6px;
