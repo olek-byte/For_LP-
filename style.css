@@ -274,9 +274,6 @@ h4 {
     color: var(--title-dark);
 }
 
-/* .library__iframe {
-    height: 100%;
-} */
 
 .modal-subtitle {
     margin-bottom: 10px;
@@ -293,6 +290,9 @@ h4 {
     width: 735px !important;
 }
 
+
+
+
 .modal-body {
     padding: 20px;
     /* height: 100%; */
@@ -305,9 +305,13 @@ h4 {
 }
 
 .modal__box-scroll {
-    height: 100%;
+    /* height: 100%; */
     /* overflow-y: hidden; */
 }
+
+/* .library__iframe {
+    height: 100%;
+} */
 
 .modal__span {
     margin-left: 6px;
