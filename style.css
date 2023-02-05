@@ -263,7 +263,7 @@ h4 {
 
 .modal-body {
     padding: 20px;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }
 
 .modal-title,
