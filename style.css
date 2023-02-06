@@ -307,13 +307,11 @@ h4 {
     height: 100%;
 }
 
-/* .library__iframe {
+.library__iframe {
     height: 100%;
-} */
-
-.library__iframe--first {
-    height: 774px;
 }
+
+
 
 .modal__span {
     margin-left: 6px;
