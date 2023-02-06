@@ -303,13 +303,13 @@ h4 {
     overflow-y: auto;
 }
 
-/* .library__object {
-    height: 100%;
-} */
-
-.library__iframe {
+.library__object {
     height: 100%;
 }
+
+/* .library__iframe {
+    height: 100%;
+} */
 
 .modal__span {
     margin-left: 6px;
