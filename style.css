@@ -300,7 +300,11 @@ h4 {
 .modal-body {
     padding: 20px;
     min-height: 93%;
-    overflow-y: auto;
+    overflow-y: hidden;
+}
+
+.library__object {
+    height: 100%;
 }
 
 /* .library__iframe {
